@@ -2,7 +2,7 @@ https://github.com/timqian/star-history
 
 https://star-history.t9t.io
 
-
+--
 > [star-history chrome extension](https://chrome.google.com/webstore/detail/iijibbcdddbhokfepbblglfgdglnccfn)
 --
 # Star History
